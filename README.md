@@ -18,13 +18,13 @@
 
 ---
 
-### 📌 Key Information:
+### Key Information:
 - 👨‍💻 **Portfolio & Projects:** [reeceturner.com](http://reeceturner.com)
 - 📄 **Resume/CV:** [reeceturner.com/resume](http://reeceturner.com/resume)
 - 💬 **Open to discussing:** Software architectures, scalable systems, data-driven technologies, and complex engineering challenges.
 - 📫 **Professional Inquiries:** business@reeceturner.com
 
-### 🔗 Connect with Me:
+### Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/reeceturner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with Reece Turner on LinkedIn" height="30" width="40" /></a>
 </p>
