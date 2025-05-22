@@ -20,7 +20,7 @@
 
 ### Key Information:
 - 👨‍💻 **Portfolio & Projects:** [reeceturner.com](http://reeceturner.com)
-- 📄 **Resume/CV:** [reeceturner.com/resume](http://reeceturner.com/resume)
+- 📄 **Resume/CV:** [reeceturner.com/resume](http://reeceturner.com/resume.pdf)
 - 💬 **Open to discussing:** Software architectures, scalable systems, data-driven technologies, and complex engineering challenges.
 - 📫 **Professional Inquiries:** business@reeceturner.com
 
