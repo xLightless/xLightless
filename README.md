@@ -30,7 +30,7 @@
 </p>
 
 ### Discover my community projects:
-- 🌐 **Minecraft Cannon Server** [Codex Realms](https://github.com/xLightless/Codex-Cannoning)
+- 🌐 **Minecraft Cannon Server:** [Codex Realms](https://github.com/xLightless/Codex-Cannoning)
 
 ---
 
