@@ -29,6 +29,9 @@
   <a href="https://linkedin.com/in/reeceturner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with Reece Turner on LinkedIn" height="30" width="40" /></a>
 </p>
 
+### Discover my community projects:
+- 🌐 **Codex Realms** [Codex Realms](https://github.com/xLightless/Codex-Cannoning)
+
 ---
 
 <h3 align="center">🛠️ My Tech Stack & Proficiencies</h3>
