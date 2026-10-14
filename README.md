@@ -92,7 +92,7 @@ I’m open to discussing software architecture, complex engineering problems, an
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="PROJECT_URL">
+        <a href="https://github.com/xlightless/rade">
           RADE
         </a>
       </h3>
